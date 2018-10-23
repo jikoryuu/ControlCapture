@@ -1,0 +1,16 @@
+C:\Users\owner\documents\visual studio 2015\Projects\ControlCapture\ControlCapture\bin\Debug\ControlCapture.exe.config
+C:\Users\owner\documents\visual studio 2015\Projects\ControlCapture\ControlCapture\bin\Debug\ControlCapture.exe.manifest
+C:\Users\owner\documents\visual studio 2015\Projects\ControlCapture\ControlCapture\bin\Debug\ControlCapture.application
+C:\Users\owner\documents\visual studio 2015\Projects\ControlCapture\ControlCapture\bin\Debug\ControlCapture.exe
+C:\Users\owner\documents\visual studio 2015\Projects\ControlCapture\ControlCapture\bin\Debug\ControlCapture.pdb
+C:\Users\owner\documents\visual studio 2015\Projects\ControlCapture\ControlCapture\bin\Debug\ControlCapture.xml
+C:\Users\owner\documents\visual studio 2015\Projects\ControlCapture\ControlCapture\obj\Debug\ControlCapture.frmControlCapture.resources
+C:\Users\owner\documents\visual studio 2015\Projects\ControlCapture\ControlCapture\obj\Debug\ControlCapture.frmScreen.resources
+C:\Users\owner\documents\visual studio 2015\Projects\ControlCapture\ControlCapture\obj\Debug\ControlCapture.Resources.resources
+C:\Users\owner\documents\visual studio 2015\Projects\ControlCapture\ControlCapture\obj\Debug\ControlCapture.vbproj.GenerateResource.Cache
+C:\Users\owner\documents\visual studio 2015\Projects\ControlCapture\ControlCapture\obj\Debug\ControlCapture.exe.manifest
+C:\Users\owner\documents\visual studio 2015\Projects\ControlCapture\ControlCapture\obj\Debug\ControlCapture.application
+C:\Users\owner\documents\visual studio 2015\Projects\ControlCapture\ControlCapture\obj\Debug\ControlCapture.exe
+C:\Users\owner\documents\visual studio 2015\Projects\ControlCapture\ControlCapture\obj\Debug\ControlCapture.xml
+C:\Users\owner\documents\visual studio 2015\Projects\ControlCapture\ControlCapture\obj\Debug\ControlCapture.pdb
+C:\Users\owner\Documents\Visual Studio 2015\Projects\ControlCapture\ControlCapture\obj\Debug\ControlCapture.vbprojResolveAssemblyReference.cache
